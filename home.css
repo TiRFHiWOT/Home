@@ -1,0 +1,99 @@
+@font-face {
+    font-family: "baby-plums";
+    src: url("/fonts/baby-plums/Baby\ Plums.ttf");
+  }
+  @font-face {
+    font-family: "CaracasFina2.0";
+    src: url("/fonts/caracasfina2-0/CaracasFina2.0.ttf");
+  }
+  @font-face {
+    font-family: "sport";
+    src: url("/fonts//octin-sports-free/octin\ sports\ rg.otf");
+  }
+  .container-fluid {
+    background:  url("/Home/New folder/Full\ HD\ 1080p\ Wallpapers\ \(14\).jpg") gray no-repeat fixed center;
+    background-position: 50% 25%;
+  }
+  .container-sm {
+    background-position: 50% 30%;
+    border-radius: 15px 15px 0px 0px;
+  }
+  .navbar {
+    background-color: #212529ad;
+    padding-inline: 100px;
+    border-radius: 20px 20px 0px 0px;
+    margin-inline: -12px;
+  }
+  .navbar-brand {
+    font-family: "baby-plums";
+    color: white;
+  }
+  .nav-one {
+    font-size: xx-small; 
+  }
+  .nav-link {
+    color: white;
+  }
+  .row-one {
+    padding: 150px 100px 100px 100px;
+    height: 90vh;
+    background-color: #212529af;
+    text-align: center;
+    border-radius: 0px 0px 5px 5px;
+  }
+  .row-two {
+    padding: 50px;
+    background-color: #212529af;
+    text-align: center;
+    border-radius: 5px;
+  }
+  h1 {
+    font-size: 70px;
+    color: antiquewhite;
+    text-align: center;
+    font-family: "CaracasFina2.0";
+  }
+  .para-one {
+    color: antiquewhite;
+    width: 400px;
+    text-align: center;
+    margin-inline: auto;
+    font-size: xx-small;
+    font-family: 'Poppins', sans-serif;
+  }
+  .para-two {
+    color: antiquewhite;
+    width: 500px;
+    text-align: center;
+    margin-inline: auto;
+    font-size: xx-small;
+    font-family: 'Poppins', sans-serif;
+  }
+  .btn {
+    padding-inline: 50px;
+    border: 2px solid white;
+    border-radius: 25px;
+    font-family: 'Poppins', sans-serif;
+    margin-block: auto;
+  }
+  img {
+    width: 500px;
+    border: 2px solid gray;
+    padding: 5px;
+    border-radius: 10px;
+  }
+  hr {
+    border: 2px solid black;
+    width: 200px;
+    margin-block: auto;
+  }
+  h2 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: azure;
+    font-size: 40px;
+    padding: 10px;
+  }
+  .col {
+    padding-top: 30px;
+  }
